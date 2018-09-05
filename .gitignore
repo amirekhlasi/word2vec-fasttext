@@ -1,0 +1,6 @@
+__pycache__/*
+jupyter/*
+Data/*
+vacab_rep.py
+run.py
+test.py
